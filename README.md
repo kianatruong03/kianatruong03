@@ -40,7 +40,6 @@ Course Elector: A forum designed to aid students in discussing and planning thei
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/kiana-truong03" target="blank"></a>
-</p>
+<p><a href="www.linkedin.com/in/kiana-truong03" target="blank">LinkedIn</a></p>
+
 
