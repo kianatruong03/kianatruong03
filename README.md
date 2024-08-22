@@ -2,8 +2,8 @@
 <h1 align="center">Welcome to my GitHub👋</h1>
 <h4 align="left">A software engineer dedicated to delivering high-quality results, collaborating with cross-functional teams, and staying current with emerging technologies to drive continuous improvement within the field of computer engineering.</h4>
 
-<h3 align="left"> About Me </h3>
-<h4 align="left">A software engineer dedicated to delivering high-quality results, collaborating with cross-functional teams, and staying current with emerging technologies to drive continuous improvement within the field of computer engineering.</h4>
+
+<h2 align="left"> About Me </h2>
 <h4 align="left"> I previous interned at Truist as a Technology & Innovation Intern. I'm passionate about exploring cutting-edge technologies and solving real-world problems through code.
 
 🔧 I enjoy working on a variety of projects, from web development to data analysis, and I'm always eager to learn new tools and languages. Whether it's improving user experiences or automating tasks, I love finding efficient and innovative solutions.
@@ -12,26 +12,27 @@
 
 
 <h2 align="left"> Goals & Objectives </h2>
-🎯 Goals
-My primary goal is to grow as a software developer by diving deep into the world of technology and innovation. I aim to build a strong foundation in full-stack development, data science, and cloud computing while continuously exploring new technologies.
+<h3 align="left">🎯 Goals </h3>
+<p>My primary goal is to grow as a software developer by diving deep into the world of technology and innovation. I aim to build a strong foundation in full-stack development, data science, and cloud computing while continuously exploring new technologies.</p>
 
-📈 Objectives
+<h3 align="left">📈 Objectives</h3>
 
-Enhance Technical Expertise: Focus on mastering languages and frameworks like Java, React, DevOps, Angular, and AWS, and contribute to open-source projects to sharpen my skills.
+<p>Enhance Technical Expertise: Focus on mastering languages and frameworks like Java, React, DevOps, Angular, and AWS, and contribute to open-source projects to sharpen my skills.
 Develop Real-World Solutions: Work on projects that solve meaningful problems, particularly in creating test cases for automation to process Zelle payments.
-Career Growth: Leverage my internship experience at Truist Technology & Innovation to secure a full-time role where I can make a significant impact and continue learning.
+Career Growth: Leverage my internship experience at Truist Technology & Innovation to secure a full-time role where I can make a significant impact and continue learning.</p>
 
-I'm committed to pushing my boundaries and achieving these goals, one project at a time.
+<p>I'm committed to pushing my boundaries and achieving these goals, one project at a time.</p>
 
 
 <h2 align="left"> Projects & Technical Skills </h2>
-🚀 Projects
-I'm passionate about building projects that tackle real-world challenges and enhance user experiences. Here are some key projects I've worked on:
+<h3 align="left">🚀 Projects</h3>
+<h4>I'm passionate about building projects that tackle real-world challenges and enhance user experiences. Here are some key projects I've worked on:</h4>
 
+</h4>
 UNC Charlotte Project
-Course Elector: Created an application to help students navigate through courses
-
-
+Course Elector: A forum designed to aid students in discussing and planning their curriculum at UNCC. Students and Professors will be allowed to leave reviews on the courses and provide any advice on what to expect.
+</h4>
+<p>https://github.com/bryanclst/course-elector</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
